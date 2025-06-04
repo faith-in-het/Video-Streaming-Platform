@@ -1,0 +1,15 @@
+{
+  "name": "video-platform",
+  "version": "1.0.0",
+  "description": "It will be Similar to YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "author": "Het Shah",
+  "license": "ISC"
+}
